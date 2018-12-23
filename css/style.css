@@ -1,4 +1,16 @@
 body{
-	background-color:blue;
+	background-color:orange;
 	font-family:courier, monospace;
+
+}
+h2{
+	font-size:90px;
+	text-align:center;
+	margin:auto;
+}
+
+nav{
+	width:500px;
+	margin:auto;
+	font-family:Tahoma, Geneva, sans-serif;
 }
