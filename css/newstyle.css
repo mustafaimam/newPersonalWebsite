@@ -1,0 +1,66 @@
+body, html{
+	margin:0;
+	height:100%;
+}
+
+body{
+	background-color:#f4f4f4;
+}
+
+h1{
+	position:absolute;
+	top:1%;
+	left:38%;
+	font-size:35px;
+	font-family:'Ms Serif','New York', sans-serif;
+}
+
+.bG{
+	position:center;
+	text-align:center;
+	color:black;
+}
+
+.image1{
+	position:absolute;
+	top:20%;
+	left:5%;
+	height:300px;
+	width:500px;
+	padding:1px;
+   	border:1px solid #021a40;
+   	background-color:white;
+}
+
+.image2{
+	position:absolute;
+	top:20%;
+	right:5%;
+	height:300px;
+	width:500px;
+	padding:1px;
+  	border:1px solid #021a40;
+   	background-color:white;
+}
+
+.image3{
+	position:absolute;
+	top:70%;
+	left:5%;
+	height:300px;
+	width:500px;
+	padding:1px;
+	border:1px solid #021a40;
+	background-color:white;
+}
+
+.image4{
+	position:absolute;
+	top:70%;
+	right:5%;
+	height:300px;
+	width:500px;
+	padding:1px;
+	border:1px solid #021a40;
+	background-color:white;
+}
