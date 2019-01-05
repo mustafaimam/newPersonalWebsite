@@ -47,7 +47,7 @@ li a{
 }
 
 li a:hover {
-	background-color: #555;
+
 	color:white;
 }
 
@@ -64,11 +64,11 @@ nav{
 
 p{
 	width:800px;
-	margin-right:25%;
-	position:absolute;
+	margin-right:40%;
+	position:relative;
 	bottom:20%;
-	left:5%;
+	left:50%
 	text-align:center;
 	font-size:35px;
-	color:white;
+	color:orange;
 }
