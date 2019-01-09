@@ -63,12 +63,13 @@ nav{
 }
 
 p{
-	width:800px;
+	width:1500px;
 	margin-right:40%;
-	position:relative;
+	position:absolute;
 	bottom:20%;
 	left:50%
 	text-align:center;
 	font-size:35px;
-	color:orange;
+	color:black;
 }
+
